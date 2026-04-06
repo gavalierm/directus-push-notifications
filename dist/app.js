@@ -1,0 +1,1 @@
+var e={id:"send-push",name:"Batch Push Notifications",icon:"notifications",description:"Query recent changes and send batched push notifications per band",overview:()=>[{label:"Mode",text:"Cron batch (15 min)"}],options:[]};export{e as default};
